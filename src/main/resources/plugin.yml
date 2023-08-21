@@ -1,0 +1,11 @@
+name: maple
+version: '${version}'
+main: org.argalia.maple.Maple
+api-version: '1.20'
+libraries:
+  - io.github.monun:kommand-core:3.1.7
+  - io.github.monun:invfx-core:3.3.2
+commands:
+  starforce:
+    description: starforce command
+    permission: sample.use
