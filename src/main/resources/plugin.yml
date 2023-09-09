@@ -8,4 +8,7 @@ libraries:
 commands:
   starforce:
     description: starforce command
-    permission: sample.use
+  showMoney:
+    description: showMoney command
+  shop:
+    description: go to the shop
